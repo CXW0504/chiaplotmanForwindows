@@ -1,6 +1,6 @@
 # chiaplotmanForwindows
 
-chia plotman windows 版 继承 chia主链命令 完整包
+chia plotman windows 版 继承 chia主链命令 完整包 代码来自 https://github.com/ericaltendorf/plotman.git 改编 
 
 1:配置好yaml文件
 
